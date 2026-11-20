@@ -1,5 +1,5 @@
 ---
-name: writing-style-extractor
+name: writing-voice-skill
 description: >
   Extract and analyze writing style DNA from any written content, producing a detailed
   style profile as both a structured JSON file and a human-readable markdown report.
@@ -14,7 +14,7 @@ description: >
   emails, landing pages, ad copy, speeches, academic writing, technical docs, etc.
 ---
 
-# Writing Style Extractor
+# Writing Voice Skill
 
 Deconstruct any written communication to its molecular level, revealing the hidden
 psychological architecture that creates influence, engagement, and memorability.

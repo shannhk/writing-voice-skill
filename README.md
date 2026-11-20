@@ -1,4 +1,4 @@
-# Writing Style Extractor
+# Writing Voice Skill
 
 A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) skill that extracts writing style DNA from any written content.
 
@@ -25,7 +25,7 @@ The skill deconstructs writing through **6-layer cognitive archaeology**:
 Add to your Claude Code project:
 
 ```bash
-claude install-skill shannhk/writing-style-extractor
+claude install-skill shannhk/writing-voice-skill
 ```
 
 ## Usage
@@ -37,10 +37,6 @@ Just ask Claude to analyze any writing:
 - *"Break down how this author writes"*
 
 Accepts pasted text, URLs, or local file paths.
-
-## Credits
-
-Based on the style extraction framework by **Machina** ([@exm7777](https://x.com/exm7777)) on X.
 
 ## License
 
